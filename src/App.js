@@ -73,7 +73,12 @@ function App() {
         />
         <h2>Web mượn/ trả tài sản của hành chính FSB Hồ Chí Minh</h2>
         <p style={{ fontSize: "20px" }}>Bạn muốn mượn hay trả tài sản?</p>
-        <div>
+        <div
+          style={{
+            display: "flex",
+            justifyContent: "center",
+          }}
+        >
           <button
             onClick={() => {
               window.location.href = "https://forms.gle/8tRMZgHRAFxhgQHb6";
