@@ -1,19 +1,20 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Hành chính FSB Hồ Chí Minh",
+  "name": "Mượn/Trả tài sản FSB Hồ Chí Minh",
+  "description": "Ứng dụng quản lý mượn/trả tài sản FSB Hồ Chí Minh",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "https://fsb.edu.vn/wp-content/uploads/2023/06/favicon.png",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "https://fsb.edu.vn/wp-content/uploads/2023/06/favicon.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
+      "src": "https://fsb.edu.vn/wp-content/uploads/2023/06/favicon.png",
       "type": "image/png",
       "sizes": "512x512"
     }
