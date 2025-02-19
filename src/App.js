@@ -22,7 +22,8 @@ function App() {
             borderRadius: 12,
             backgroundColor: "#0064b4 ",
             color: "white",
-            fontSize: "20px",
+            fontSize: "22px",
+            fontWeight: "bold",
             marginRight: "20px",
           }}
         >
@@ -39,7 +40,8 @@ function App() {
             borderRadius: 12,
             backgroundColor: "#0fb44b",
             color: "white",
-            fontSize: "20px",
+            fontSize: "22px",
+            fontWeight: "bold",
           }}
         >
           Trả tài sản
