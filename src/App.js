@@ -7,7 +7,7 @@ function App() {
         <div
           style={{
             width: "800px",
-            backgroundColor: "lightgray",
+            backgroundColor: "#E5E4E2",
             borderRadius: "12px",
             padding: "20px",
             margin: "auto",
